@@ -1,0 +1,22 @@
+﻿  Block.cpp
+  BlockBuilder.cpp
+  CADObject.cpp
+  dllmain.cpp
+  Extrude.cpp
+C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\AutomationBinding\Extrude.h(8,2): warning C4275: non dll-interface class 'AutomationAPI::CADObject' used as base for dll-interface class 'AutomationAPI::Extrude'
+C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\AutomationBinding\CADObject.h(7): message : see declaration of 'AutomationAPI::CADObject'
+C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\AutomationBinding\Extrude.h(7): message : see declaration of 'AutomationAPI::Extrude'
+  FeatureCollection.cpp
+  IBuilder.cpp
+  Part.cpp
+C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\AppPartOps\PartOps.h(19,15): warning C4251: 'PartFile::m_partFilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'PartFile'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  RoutingCollection.cpp
+  Session.cpp
+C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\AppPartOps\PartOps.h(19,15): warning C4251: 'PartFile::m_partFilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'PartFile'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Wire.cpp
+  WireBuilder.cpp
+  Generating Code...
+     Creating library C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\x64\Debug\AUTOMATIONBINDING.lib and object C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\x64\Debug\AUTOMATIONBINDING.exp
+  AutomationBinding.vcxproj -> C:\Users\jeffr\source\repos\SoftwareArchitectureCLassApplication\x64\Debug\AUTOMATIONBINDING.dll
